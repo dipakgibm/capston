@@ -9,4 +9,3 @@
     routes:
       - route: $HOST.$DOMAIN/static
     memory: 128M
-    
